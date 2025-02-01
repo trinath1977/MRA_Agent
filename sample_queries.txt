@@ -1,0 +1,47 @@
+General Medical Research Queries
+
+	a. Developments of ai in medical field
+	b. Impact of AI in radiology?
+	c. Latest FDA-approved drugs for migraine treatment?
+	d. Promising biomarkers for early cancer detection
+
+
+
+
+	1.	Latest advancements in Alzheimer’s disease treatment?
+	2.	Impact of AI in radiology?
+	3.	Breakthroughs in cancer immunotherapy?
+	4.	Effectiveness of gene therapy for genetic disorders?
+	5.	Emerging trends in personalized medicine?
+
+📊 Data-Driven & Statistical Queries
+
+	6.	Global prevalence of diabetes – latest statistics?
+	7.	Adoption of robotic surgery in hospitals?
+	8.	Promising biomarkers for early cancer detection?
+	9.	Post-COVID-19 telemedicine adoption trends?
+	10.	Long COVID symptoms and treatment research?
+
+🧪 Drug & Treatment Effectiveness Queries
+
+	11.	Latest FDA-approved drugs for migraine treatment?
+	12.	How effective is CRISPR for genetic diseases?
+	13.	Current research trends in stem cell therapy?
+	14.	Comparison of weight-loss drug effectiveness?
+	15.	Long-term effects of mRNA vaccines?
+
+🦠 Infectious Disease & Public Health Queries
+
+	16.	Most common antibiotic-resistant bacteria today?
+	17.	AI applications in detecting infectious diseases?
+	18.	Latest research on HIV cure strategies?
+	19.	Neurological effects of COVID-19?
+	20.	Flu vaccine effectiveness comparison?
+
+💡 Industry & Innovation Queries
+
+	21.	Latest AI-powered tools in drug discovery?
+	22.	How are wearables improving health monitoring?
+	23.	Challenges in AI-driven medical diagnosis?
+	24.	Blockchain in healthcare data security?
+	25.	Future trends in nanomedicine?

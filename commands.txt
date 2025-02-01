@@ -1,0 +1,23 @@
+source venv/bin/activate
+
+
+
+rm -rf venv  # macOS/Linux
+rd /s /q venv  # Windows
+
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+pip freeze > requirements.txt
+
+
+streamlit run streamlit_app.py
+
+
+requirements:
+crewai
+crewai-tools
+python-dotenv
+streamlit
+openai
